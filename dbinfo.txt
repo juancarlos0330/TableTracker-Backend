@@ -1,0 +1,13 @@
+- MySql server info
+
+Hosting Link: https://u2831340.ct.sendgrid.net/ls/click?upn=WOzEwDFUYbz8XP8cqLSZnAQTQSLW4TFkVH15F-2FwmHri5VcZ2r8f8kjkBS0U9v-2BSs4VJJ_VjS2fiTf5aJqNkZp94bFO5nZkLzc3tj-2BXb9IEGyIqZxM7mNa-2BbM-2FOchlQkKmS4mrkRi8QcF-2BuspWRGLm4OJCWETOhN3QTyRhv1yJZn27P-2Fclr6K-2BAuwA-2FduOwuhiz1V8-2Bmtj8y1AVyJvcfZlQU70GChNzzEGpDoR1ALX-2BuPCqc4r4VbWrkeUzYZuEgCCM6JCN1NebM-2BvgxCz2EDhjy3QeCOUJKbLlRgdV1M6AGWeaXY-3D
+
+Server: sql9.freemysqlhosting.net
+DatabaseName: sql9568645
+Username: sql9568645
+Password: wzie8YTfFi
+Port number: 3306
+
+
+
+
